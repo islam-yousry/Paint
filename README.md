@@ -2,7 +2,7 @@
 paint drawing program impelmented in java
 ### programe specifications:
 -	The program consists of three main parts:
-1.	GUI Class: this class controls the interface style (e.g. buttons icons, pop ups …etc.) and also collects all actions (e.g. button and mouse clicks)to use it in drawing.
+1.	View Class: this class controls the interface style (e.g. buttons icons, pop ups …etc.) and also collects all actions (e.g. button and mouse clicks)to use it in drawing.
 2.	Shape Interface and its classes : this part have the implementation for every shape in its own way 
 -here we set the parameters for every shape, draw it, color it, fill it and clone it.  
 -other buttons which don’t have a specific function is implemented in gui class
